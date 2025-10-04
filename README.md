@@ -1,4 +1,4 @@
-This issue was fixed in [Verify 30.20.0](https://github.com/VerifyTests/Verify/milestone/430) ([EmptyFiles 8,14,0](https://github.com/VerifyTests/EmptyFiles/milestone/41)). Thank you!
+This issue was fixed in [Verify 30.20.0](https://github.com/VerifyTests/Verify/milestone/430) ([EmptyFiles 8.14.0](https://github.com/VerifyTests/EmptyFiles/milestone/41)). Thank you!
 
 # Verify.Xunit byte[] Repro
 
